@@ -1,3 +1,26 @@
+
+
+.contenedor {
+  height: 100vh;
+  position: absolute;
+  width: 100%;
+  left: 0;
+  justify-content: center;
+}
+
+.cardLink {
+  color: brown;
+}
+
+.epListado {
+  color: #282c34;
+  text-transform: none;
+}
+
+
+
+
+/* ----------------------------------------------------------------------------------------------------------------------- */
 .App {
   text-align: center;
 }
@@ -36,3 +59,4 @@
     transform: rotate(360deg);
   }
 }
+
